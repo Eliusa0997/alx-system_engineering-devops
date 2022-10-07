@@ -1,2 +1,2 @@
 #!/bin/bash
-Cp -rua *.html
+cp -un *.html ../

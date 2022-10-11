@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "${NUM}.00 \n"
+echo "${NUM}.00"
